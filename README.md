@@ -49,7 +49,7 @@ Rick's talks:
 ## Written resources
 
 - [DynamoDB Best Practices Guide](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html). From the AWS documentation, a list of best practices and examples for modeling with DynamoDB.
-- [DynamoDB Guide](https://www.dynamodbguide.com/). A basic walkthrough to DynamoDB concepts, API actions, and mechanics, with some data modeling examples.
+- [DynamoDB Guide](https://dynamodbguide.com/). A basic walkthrough to DynamoDB concepts, API actions, and mechanics, with some data modeling examples.
 - [From relational DB to single DynamoDB table: a step-by-step exploration](https://www.trek10.com/blog/dynamodb-single-table-relational-modeling/). Awesome post from [Forrest Brazeal](https://twitter.com/forrestbrazeal) with a step-by-step walkthrough of moving to a single-table design.
 - [How to switch from RDBMS to DynamoDB in 20 easy steps...](https://www.jeremydaly.com/how-to-switch-from-rdbms-to-dynamodb-in-20-easy-steps/). By [Jeremy Daly](https://twitter.com/jeremy_daly), a funny and eternally useful list of steps for learning how to model with DynamoDB.
 - [Comparing multi and single table approaches to designing a DynamoDB data model](https://winterwindsoftware.com/dynamodb-modelling-single-vs-multi-table/). [Paul Swail](https://twitter.com/paulswail) takes a look at the pros and cons of modeling with a single table in DynamoDB and provides recommendations on when to avoid it.
